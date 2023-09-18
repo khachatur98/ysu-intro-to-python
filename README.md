@@ -10,4 +10,4 @@
 
 ## Homeworks 📝
 
-- [Homework 02](homeworks/Homework02.md)
+- [Homework 02](homeworks/problems/Homework02.pdf)
