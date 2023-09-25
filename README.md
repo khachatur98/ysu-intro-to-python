@@ -7,6 +7,7 @@
 - [Lecture 03](lectures/Lecture03.ipynb)
 - [Lecture 04](lectures/Lecture04.ipynb)
 - [Lecture 05](lectures/Lecture05.ipynb)
+- [Lecture 06](lectures/Lecture06.ipynb) Problem Solving Session
 
 ## Homeworks 📝
 
