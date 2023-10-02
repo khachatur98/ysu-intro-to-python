@@ -9,6 +9,7 @@
 - [Lecture 05](lectures/Lecture05.ipynb)
 - [Lecture 06](lectures/Lecture06.ipynb) Problem Solving Session
 - [Lecture 07](lectures/Lecture07.ipynb)
+- [Lecture 08](lectures/Lecture08.ipynb)
 
 ## Homeworks 📝
 
