@@ -18,3 +18,8 @@
 ## Homeworks 📝
 
 - [Homework 02](homeworks/problems/Homework02.pdf)
+- [Homework 03](homeworks/problems/Homework03.pdf)
+
+## Homework Solutions 📝
+
+- [Homework 02](homeworks/solutions/Homework03.ipynb)
