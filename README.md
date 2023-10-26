@@ -22,4 +22,5 @@
 
 ## Homework Solutions 📝
 
+- [Homework 02](homeworks/solutions/Homework02.ipynb)
 - [Homework 03](homeworks/solutions/Homework03.ipynb)
