@@ -36,7 +36,7 @@ Write a python function named `generate_rectangle` that takes the position of th
 def generate_rectangle(x, y, width, height):
     pass
 
-print(generate_rectangle(0, 0, 3, 2)) # [(0, 0), (0, 1), (0, 2), (1, 0), (1, 1), (1, 2)]
+print(generate_rectangle(0, 0, 3, 2)) # [(0, 0), (1, 0), (2, 0), (0, 1), (1, 1), (2, 1)]
 ```
 
 ## Problem 1.2 [20 points]
