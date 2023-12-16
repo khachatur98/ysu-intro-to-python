@@ -22,6 +22,7 @@
 - [Homework 03](homeworks/problems/Homework03.pdf)
 - [Homework 04](homeworks/problems/Homework04.pdf)
 - [Homework 05](homeworks/problems/Homework05.pdf)
+- [Homework 06](homeworks/problems/Homework06.pdf)
 
 ## Homework Solutions 📝
 
