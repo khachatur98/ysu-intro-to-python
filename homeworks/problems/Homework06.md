@@ -28,23 +28,23 @@ Problem 1
 
 ## Problem 1: Build the following numpy arrays [50 points]
 ### 1.1 [30 points]
-![Alt text](image1.png)
+![Alt text](./resources/image1.png)
 ### 1.2 [20 points]
-![Alt text](image2.png)
+![Alt text](./resources/image2.png)
 
 <div style="page-break-after: always;"></div>
 
 ## Problem 2: Replicate given plots [50 points]
 ### 2.1 [15 points]
-![Alt text](circle.png)
+![Alt text](./resources/circle.png)
 <div style="page-break-after: always;"></div>
 
 ### 2.2 [15 points]
-![Alt text](square.png)
+![Alt text](./resources/square.png)
 <div style="page-break-after: always;"></div>
 
 ### 2.3 [20 points]
-![Alt text](parabolas.png)
+![Alt text](./resources/parabolas.png)
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
