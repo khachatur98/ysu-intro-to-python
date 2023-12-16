@@ -15,6 +15,11 @@
 - [Lecture 11](lectures/Lecture11.ipynb)
 - [Lecture 12](lectures/Lecture12.ipynb) Recursion Sroblem Solving Session
 - [Lecture 13](lectures/Lecture13.ipynb)
+- [Lecture 14](lectures/Lecture14.ipynb)
+- [Lecture 15](lectures/Lecture15.ipynb) Problem Solving Session
+- [Guest Lecture](lectures/GuestLecture.ipynb)
+- [Lecture 16](lectures/Lecture16.ipynb)
+- [Lecture 17](lectures/Lecture17.ipynb)
 
 ## Homeworks 📝
 
