@@ -33,3 +33,4 @@
 
 - [Homework 02](homeworks/solutions/Homework02.ipynb)
 - [Homework 03](homeworks/solutions/Homework03.ipynb)
+- [Homework 05](homeworks/solutions/Homework05.ipynb)
